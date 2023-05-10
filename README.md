@@ -19,8 +19,8 @@ Want to connect? You can find me at:
 
 
 <div style="display: flex; flex-direction: 'row';">
-<img src="./screenshots/1.png" width=33%>
-<img src="./screenshots/2.png" width="33%">
-<img src="./screenshots/3.png" width="33%">
+<img src="./screenshots/1.png" width=30%>
+<img src="./screenshots/2.png" width="30%">
+<img src="./screenshots/3.png" width="30%">
 
 </div>
